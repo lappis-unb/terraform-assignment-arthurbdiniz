@@ -1,0 +1,24 @@
+{
+    "tests": [
+        {
+            "name": "Question 1",
+            "setup": "",
+            "run": "make question-1",
+            "input": "",
+            "output": "cJ2/la9kZ7MeXgmUkLtQGIROAD22TeHpMG6xNE1qEaZOWLSSCseceYPjggR4lFiFJhF7yaUOo++VW9cm+Nx9VYEjJf62L72v20C0aXxiyNEo1AnlIRbbC3Li7seq5OrIzriZYvbGXBgWsNdxEcAYcubY5wBDtD4vE+Go4Ysb0cPVGdSfb93sx+W4XAgoEvWH",
+            "comparison": "included",
+            "timeout": 2,
+            "points": 1
+        },
+        {
+            "name": "Question 2",
+            "setup": "",
+            "run": "make question-2",
+            "input": "",
+            "output": "1TSUapgv+fFOH8yOQfJIZBB4qU6H/N0GQbBOwRjtwunjVc7uXnQObBWA+pNWQ3FyPHTrFF2LEMlbRhfzTkdUhmMX1yGDc++V4DLafpUUVcINb61xhv4EBpKyI6Q0C1CR6FDOtdSF2wEIUp6dd24t9OT/c+ng01+qRaIQb6OT3gY8zwO3+hrp6zNDBRIwFIGS+W3IQ7cdIzqDL0gfBsogLvMaU0iRG5x8f6oIscInvotkTD4FfwlBenxAyCYuWG1OUNVjByMug1Hzr13tPSy9q0r/UVPhpg8K3okGxgPb0+FemRfsjCeM+LykSB+7V+vg0lC8sBJNRjuFlX0y8uhdYZCWI+04LZFu8xdwCosNnldUaZ7m0RmGoKHIZJgC5AInaVSQo6q3f5JhFH9/Bay0B/dO/KS+m8AuStzXYbUBA7GMjS9oKnV3gK3krBAkfAXD7wAoS18RRL/1JoF4qejDd3swd2ze6M/QIgiS5N60JsHaCHpcLbx9tuhj/tTV1zAR6OAoCeNzQ8dtjzX/4PgaI+hx1PhiLp3u9VBegUQeevOktEY6Co+msGX8LNkgig/oc1QvSsmgp+U2YrtXSMh2XA==",
+            "comparison": "included",
+            "timeout": 2,
+            "points": 1
+        }
+    ]
+}
